@@ -12,7 +12,7 @@
 				<a href="<?=get_site_url();?>">Home</a>
 			</nav>
 
-			<p class="byline">A project by <a href="https://peprojects.dev/beta-two/ernie/">Ernie</a></p>
+			<p class="byline quiet-voice">A project by <a href="https://peprojects.dev/beta-two/ernie/">Ernie</a></p>
 		</inner-column>
 	</footer>
 	<?php wp_footer();?>

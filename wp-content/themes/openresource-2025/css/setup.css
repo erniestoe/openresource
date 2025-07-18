@@ -6,8 +6,9 @@
 
 html {
 	scroll-behavior: smooth;
-	--main-color: #2AA577;
-	--secondary-color: #FFFCE4;
+	--main-color: #31C38E;
+	--secondary-color: #0C0C0C;
+	--accent-color: #f5f5f5;
 }
 
 inner-column {

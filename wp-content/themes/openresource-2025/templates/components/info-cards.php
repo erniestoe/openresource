@@ -13,7 +13,7 @@ if( have_rows('grid_card') ):
 					$text = $row['info_card_text'];
 					?>
 					<div class="info-card">
-						<h3 class="attention-voice"><?= $heading ;?></h3>
+						<h3 class="loud-voice"><?= $heading ;?></h3>
 
 						<p><?= $text; ?></p>
 					</div>
@@ -27,7 +27,7 @@ if( have_rows('grid_card') ):
          $extraMessage = get_sub_field('features_card_extra_message');
          ?>
          <div class="features-card">
-				<h3 class="attention-voice"><?= $heading; ?></h3>
+				<h3 class="loud-voice"><?= $heading; ?></h3>
 
 				<?= $list; ?>
 
